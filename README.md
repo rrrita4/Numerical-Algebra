@@ -1,2 +1,2 @@
 # Numerical-Algebra
-Codes for Numerical Algebra course(C++)
+Codes for Numerical Algebra course (C++)
