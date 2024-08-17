@@ -1,5 +1,5 @@
 # Numerical-Algebra
-\textbf{Codes for Numerical Algebra course} (Programming Language: C++)
+Codes for Numerical Algebra course (Programming Language: C++)
 
 Textbook: 北京大学数学教学系列丛书 数值线性代数 第2版 (徐树方，高立，张平文编著)
 
