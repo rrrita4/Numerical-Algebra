@@ -3,7 +3,7 @@ Codes for Numerical Algebra course (Programming Language: C++)
 
 Textbook: 北京大学数学教学系列丛书 数值线性代数 第2版 (徐树方，高立，张平文编著)
 
-Chapter 1 Direct Solutions to Systems of Linear Equations 
+## Chapter 1 Direct Solutions to Systems of Linear Equations 
 
 1.1 Triangular equations and trigonometric decomposition 
 
@@ -13,7 +13,7 @@ Chapter 1 Direct Solutions to Systems of Linear Equations
 
 1.4 Chunked triangulation 
 
-Chapter 2 Sensitivity Analysis of Systems of Linear Equations and Rounding Error Analysis of Elimination Methods 
+## Chapter 2 Sensitivity Analysis of Systems of Linear Equations and Rounding Error Analysis of Elimination Methods 
 
 2.1 Vector norms and matrix norms 
 
@@ -25,7 +25,7 @@ Chapter 2 Sensitivity Analysis of Systems of Linear Equations and Rounding Error
 
 2.5 Accuracy estimation and iterative improvement of computational solutions 
 
-Chapter 3 Solving the Least Squares Problem 
+## Chapter 3 Solving the Least Squares Problem 
 
 3.1 Least Squares problems 
 
@@ -37,7 +37,7 @@ Chapter 3 Solving the Least Squares Problem
 
 3.3 Orthogonal transformation method 
 
-Chapter 4 Classical Iterative Solutions to Systems of Linear Equations 
+## Chapter 4 Classical Iterative Solutions to Systems of Linear Equations 
 
 4.1 Single-step linear constant iterative method 
 
@@ -65,7 +65,7 @@ Chapter 4 Classical Iterative Solutions to Systems of Linear Equations
 
 4.4 Super-relaxation iterative method 
 
-Chapter 5 Conjugate Gradient Method 138
+## Chapter 5 Conjugate Gradient Method 138
 
 5.1 Fastest descent method 
 
@@ -81,7 +81,7 @@ Chapter 5 Conjugate Gradient Method 138
 
 5.5 Krylov Subspace Method 
 
-Chapter 6 Methods for Calculating Asymmetric Eigenvalue Problems 
+## Chapter 6 Methods for Calculating Asymmetric Eigenvalue Problems 
 
 6.1 Basic Concepts and Properties 
 
@@ -91,7 +91,7 @@ Chapter 6 Methods for Calculating Asymmetric Eigenvalue Problems
 
 6.4 QR Methods 
 
-Chapter 7 Methods for Calculating Symmetric Eigenvalue Problems 
+## Chapter 7 Methods for Calculating Symmetric Eigenvalue Problems 
 
 7.1 Basic properties 
 
